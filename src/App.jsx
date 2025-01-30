@@ -8,9 +8,10 @@ import { Container } from '@mui/material'
 import SectionTwo from './components/SectionTwo'
 import SectionOne from './components/SectionOne'
 import Navbar from './components/Navbar'
-import Footer from './components/footer'
+// import Footer from './components/footer'
 import ProductLayoutTwo from './components/ProductLayoutTwo'
 import ProductLayoutThree from './components/ProductLayoutThree'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
